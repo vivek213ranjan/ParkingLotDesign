@@ -1,2 +1,2 @@
 # ParkingLotDesign
-Desing a Parking Lot
+Designing a Parking Lot
